@@ -1,0 +1,89 @@
+OVERLAYS
+    ">Saving","> 将被保存"
+    ">Checking for updates",">检查更新"
+
+
+BUTTONS
+    "> Settings","> 设置"
+
+
+MENU ITEMS
+    ">Current page","> 当前页面"
+    ">Menu","> 菜单"
+    ">Files","> 文件"
+    ">Themes","> 主题"
+    ">Plugins","> 插件"
+    ">Security","> 安全"
+
+
+CURRENT PAGE
+    ">Page title","> 页面标题"
+    ">Page keywords","> 页面关键字"
+    ">Page description","> 页面说明"
+    "> Delete page","> 删除页面"
+    "return confirm\('Delete  (.*?)\?'\)","返回确认('删除 $1?')"
+
+
+MENU
+    ">Website title","> 网站标题"
+    ">Page to display on homepage","> 要显示在主页上的页面”，“>要显示在主页上的页面"
+    ">visit","> 访问"
+    "> Add page","> 添加页面"
+
+
+FILES
+    ">Upload","> 上传"
+    ">Delete files","> 删除文件"
+
+
+THEMES AND PLUGINS
+    "> Check for updates","> 检查更新"
+    "return confirm\('Remove (.*?)\?'\)","返回确认('删除 $1?')"
+    ">Active","> Aktiv"
+    "return confirm\('Activate (.*?) theme\?'\)","返回确认('激活 $1?')"
+    "> Activate","> 激活"
+    "> More info",""> 更多信息"
+    "> Install","> 安装"
+    ">Installed version:","> 安装的版本:"
+    ">Custom repository","> 自定义存储库"
+    "Enter URL to custom repository","输入存储库的URL"
+    "> Add", "> 添加"
+    "> Read more about custom repositories","> 了解有关自定义存储库的更多信息“
+
+
+SECURITY
+    ">Admin login URL","> 管理员登录URL"
+    ">Save your login URL to log in to your website next time:","> 保存您的登录网址，以便下次可以登录到您的网站:",
+    ">Password","> 密码"
+    "Old password","旧密码"
+    "New password","新密码"
+    "> Change password","> 更改密码"
+
+    "> How to restore backup","> 如何还原备份",
+    ">Improved security \(Apache only\)","> 改进的安全性（仅Apache服务器）"
+    ">HTTPS redirect, 30 day caching, iframes allowed only from same origin, mime type sniffing prevention, stricter cookie and refferer policy.","> HTTPS重定向，30天缓存，仅允许来自同一来源的iframe，mime类型的防止嗅探，更严格的cookie -和推荐人指南."
+    ">ON \(warning: may break your website\)","> 开 \ (警告：可能会破坏您的网站 \)"
+    ">OFF \(reset htaccess to default\)", "> 关 (重置其他安全性)"
+    "> Read more before enabling","> 启用前请阅读更多内容"
+    ">Backup","> 备份"
+    "> Backup website","> 网站备份"
+    ">Last 5 logins","> 最近5次登录"
+
+
+STATISTICS
+    ">Statistics","> 统计信息"
+    ">Today",">今天"
+    ">This week", ">本周"
+    ">Most popular page","> 最受欢迎页面"
+    ">Pageviews last two weeks","> 最近两周的浏览量"
+    ">Sessions last two weeks","> 过去两周的会话" 
+    ">Sessions","> 会话"
+    ">Pageviews","> 浏览量"
+
+
+FOOTER
+    ">News","> 新闻"
+    ">Community",">论坛"
+    ">Docs","> 文档"
+    ">Donate","> 捐赠"
+    ">Shop\/Merch",">商店"
